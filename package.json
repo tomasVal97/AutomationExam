@@ -1,0 +1,18 @@
+{
+  "name": "seleniumexamv1",
+  "version": "1.0.0",
+  "description": "SeleniumExam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tomas Valencia",
+  "license": "ISC",
+  "dependencies": {
+    "asserts": "^4.0.2",
+    "chromedriver": "^101.0.0",
+    "edgedriver": "^4.17134.1",
+    "mocha": "^10.0.0",
+    "selenium-webdriver": "^4.1.2"
+  }
+}
